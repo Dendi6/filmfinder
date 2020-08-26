@@ -12,7 +12,7 @@ saat projeck sudah di clone lakukan instalasi npm dengan cara
 
 ## Menjalankan
 Menjalankan projeck dapat dilakukan dengan 2 cara
->npm run build
+>npm run build</br>
 >npm run start-dev
 
 ## push ke github
@@ -29,7 +29,7 @@ saat paket sudah selesai tambahkan homepage di berkas <b>package.json</b>
 >"homepage" : "https://namagithub.github.io/namarepisitori/"
 
 masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
->"predeploy" : "npm run build",
+>"predeploy" : "npm run build",</br>
 >"deploy" : "gh-pages -d dist"
 
 langkah terakhir dapat dilakukan dengan perintah
