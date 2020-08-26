@@ -50,6 +50,7 @@ class FilmItem extends HTMLElement {
                     -webkit-line-clamp: 10; /* number of lines to show */
                 }
             </style>
+            <img class="fan-art-film" src="https://image.tmdb.org/t/p/w500/${this._film.poster_path}" alt="Fan Art">
             <div class="film-info">
                 <h2>${this._film.title}</h2>
                 <p><b>Release : </b>${this._film.release_date}, <b>Ranting : </b>${this._film.vote_average}</p>
