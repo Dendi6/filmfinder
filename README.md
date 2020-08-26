@@ -36,7 +36,7 @@ masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
 
 langkah terakhir dapat dilakukan dengan perintah
 >npm run deploy
-
+1
 ---
 ## Contributor
 - Dendi
