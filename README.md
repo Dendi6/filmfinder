@@ -1,7 +1,8 @@
 ## filmfinder
 
-**Version 1.0.0</br>
+**Version 1.0.0**
 untuk melakukan pencarian film sederhana
+
 ---
 ## download
 untuk memulai projek lakukan clone. dengan cara
@@ -35,10 +36,11 @@ masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
 
 langkah terakhir dapat dilakukan dengan perintah
 >npm run deploy
-1
+
 ---
 ## Contributor
 - Dendi
+
 ---
 ## copyright
 © Dendi,
