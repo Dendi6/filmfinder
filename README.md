@@ -38,6 +38,16 @@ masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
 langkah terakhir dapat dilakukan dengan perintah
 >npm run deploy
 
+## Kesahalah push
+Seperti yang dinyatakan dalam pesan Kesalahan, Anda harus "mengambil dulu". Ini berhasil untuk saya. Gunakan perintah:
+>git fetch origin master
+
+Kemudian ikuti langkah-langkah berikut untuk menggabungkan:
+>git pull origin master
+>git add .
+>git commit -m 'your commit message'
+>git push origin master
+
 ---
 ## Contributor
 - Dendi
