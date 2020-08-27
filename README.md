@@ -43,10 +43,10 @@ Seperti yang dinyatakan dalam pesan Kesalahan, Anda harus "mengambil dulu". Ini 
 >git fetch origin master
 
 Kemudian ikuti langkah-langkah berikut untuk menggabungkan:
->git pull origin master
->git add .
->git commit -m 'your commit message'
->git push origin master
+>git pull origin master</br>
+>git add .</br>
+>git commit -m 'your commit message'</br>
+>git push origin master</br>
 
 ---
 ## Contributor
