@@ -19,12 +19,6 @@ Menjalankan projeck dapat dilakukan dengan 2 cara
   npm run build</br>
   npm run start-dev
 ```
-## push ke github
-untuk melakukan push ke github dapat di lakukan dengan cara
-1. >git add .
-2. >git commit -m "isi pesan"
-3. >git push origin master
-
 ## Menggunakan Github Pages
 Menggunakan github pages.
 >npm install gh-pages
