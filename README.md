@@ -16,7 +16,7 @@ saat projeck sudah di clone lakukan instalasi npm dengan cara
 ## Menjalankan
 Menjalankan projeck dapat dilakukan dengan 2 cara
 ```
-  npm run build</br>
+  npm run build
   npm run start-dev
 ```
 ## Menggunakan Github Pages
@@ -32,11 +32,7 @@ masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
   "deploy" : "gh-pages -d dist"
 ```
 langkah terakhir dapat dilakukan dengan perintah
->npm run deploy
-
----
-## Contributor
-- Dendi
+> npm run deploy
 
 ---
 ## copyright
