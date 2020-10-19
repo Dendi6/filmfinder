@@ -2,22 +2,23 @@
 
 **Version 1.0.0**</br>
 untuk melakukan pencarian film sederhana
->https://dendi6.github.io/filmfinder/
+> https://dendi6.github.io/filmfinder/
 
 ---
 ## download
 untuk memulai projek lakukan clone. dengan cara
->git clone https://github.com/dendi6/filmfinder.git
+> git clone https://github.com/dendi6/filmfinder.git
 
 ## memulai
 saat projeck sudah di clone lakukan instalasi npm dengan cara
->npm install
+> npm install
 
 ## Menjalankan
 Menjalankan projeck dapat dilakukan dengan 2 cara
->npm run build</br>
->npm run start-dev
-
+```
+  npm run build</br>
+  npm run start-dev
+```
 ## push ke github
 untuk melakukan push ke github dapat di lakukan dengan cara
 1. >git add .
@@ -32,21 +33,12 @@ saat paket sudah selesai tambahkan homepage di berkas <b>package.json</b>
 >"homepage" : "https://namagithub.github.io/namarepisitori/"
 
 masih pada <b>package.json</b> tambahkan kata seperti ini di bagian script
->"predeploy" : "npm run build",</br>
->"deploy" : "gh-pages -d dist"
-
+```
+  "predeploy" : "npm run build",
+  "deploy" : "gh-pages -d dist"
+```
 langkah terakhir dapat dilakukan dengan perintah
 >npm run deploy
-
-## Kesahalah push
-Seperti yang dinyatakan dalam pesan Kesalahan, Anda harus "mengambil dulu". Ini berhasil untuk saya. Gunakan perintah:
->git fetch origin master
-
-Kemudian ikuti langkah-langkah berikut untuk menggabungkan:
->git pull origin master</br>
->git add .</br>
->git commit -m 'your commit message'</br>
->git push origin master</br>
 
 ---
 ## Contributor
