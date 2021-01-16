@@ -1,7 +1,7 @@
 ## filmfinder
 
 **Version 1.0.0**</br>
-untuk melakukan pencarian film sederhana
+untuk melakukan pencarian film sederhana, Tugas Dicoding
 > https://dendi6.github.io/filmfinder/
 
 ---
